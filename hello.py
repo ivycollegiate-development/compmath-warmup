@@ -2,4 +2,4 @@
 # Task: change this line so it prints YOUR name and one math fact about you.
 # Example: print("Hi, I'm Selina and I can square any number ending in 5 in my head.")
 
-print("Hello I'm Mr. Jones and I teach Algebra 2!")
+print("Hello I'm Mr. Jones and I teach Algebra 2 AND Computational Mathematics!")
